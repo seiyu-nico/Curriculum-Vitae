@@ -29,6 +29,6 @@
           - https://github.com/seiyu-nico/docker-php-dev
   - バージョン管理
     - Mercurial: 3年
-    - git: 1年(自分自身の開発に利用)
+    - Git: 1年(自分自身の開発に利用)
       - 最低限の利用は問題なし
 
