@@ -37,14 +37,16 @@
   - SBペイメント(トークン式/リンク式)を3ステップカート/ゼロステップカートに導入
 - 3ステップカートに存在する外部決済をゼロステップカートにも追加
   - 第2弾として3ステップカートに存在する外部決済をSPA化したゼロステップカートに実装
-  
+
 ## スキル
 - Github: https://github.com/seiyu-nico
 
 ### バックエンド
 - PHP
   - Zend Framework1: 3年
-  - Laravel(自主的)
+  - Laravel(自主的/勉強中)
+    - 下記公開リポジトリ
+      - https://github.com/seiyu-nico/tools
 - Pyhon
   - Flask(単発業務)
 - Node.js
