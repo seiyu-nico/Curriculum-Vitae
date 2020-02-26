@@ -1,0 +1,34 @@
+# スキルシート
+- Github: https://github.com/seiyu-nico
+
+- バックエンド
+  - PHP
+    - Zend Framework1: 3年
+    - Laravel(自主的)
+  - Pyhon
+    - Flask(単発業務)
+  - Node.js
+    - express(自主的/チュートリアル程度)
+- フロントエンド
+  - 業務経験
+      - jQuery: 3年
+      - Angular: 2年
+      - VueJS: 半年
+- インフラ
+  - Linux
+    - ubuntu18.04: 半年
+  - Solaris
+    - Solaris: 3年
+      - 開発環境として利用していたので、Solarisを利用しての環境構築などの経験は少しだけ
+  - DevOps
+    - 自主的
+      - Docker
+        - 自分自身の開発に利用(業務では未使用)
+        - 下記公開リポジトリ
+          - https://github.com/seiyu-nico/docker-images
+          - https://github.com/seiyu-nico/docker-php-dev
+  - バージョン管理
+    - Mercurial: 3年
+    - git: 1年(自分自身の開発に利用)
+      - 最低限の利用は問題なし
+
