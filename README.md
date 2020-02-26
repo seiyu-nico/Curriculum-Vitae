@@ -4,9 +4,10 @@
 |key|value|
 |---|-----|
 |Name|石井 優聖(Yusei Ishii)|
+| Birth(Age) | 1994/06/25 (25) |
+| Location | 静岡県 伊豆の国市 |
 |Blog|[せぃゆー日記](https://seiyu-nico.jp)|
-|Twitter|[@seiyu_nico](https://twitter.com/foobar)|
-
+|Twitter|[@seiyu_nico](https://twitter.com/seiyu_nico)|
 
 ## 職務経歴
 ### 株式会社ハンズ(2017/04 ~ 2017/09)
@@ -17,7 +18,6 @@
   - 担当業務
     - 要件定義・基本設計・詳細設計
     - 実装・テスト・リリース・障害対応
-
 ### 株式会社まえびー(2017/10 ~ 2017/12)
 #### 概要
 - 自社研修の後、社外研修として参加し2プロジェクト経験する  
@@ -37,7 +37,7 @@
   - SBペイメント(トークン式/リンク式)を3ステップカート/ゼロステップカートに導入
 - 3ステップカートに存在する外部決済をゼロステップカートにも追加
   - 第2弾として3ステップカートに存在する外部決済をSPA化したゼロステップカートに実装
-
+  
 ## スキル
 - Github: https://github.com/seiyu-nico
 
@@ -57,16 +57,15 @@
 ### インフラ
 - Linux
   - ubuntu18.04: 半年
+    - 自分自身の開発環境として利用
 - Solaris
   - Solaris: 3年
     - 開発環境として利用していたので、Solarisを利用しての環境構築などの経験は少しだけ
-- DevOps
-  - 自主的
-    - Docker
-      - 自分自身の開発に利用(業務では未使用)
-      - 下記公開リポジトリ
-        - https://github.com/seiyu-nico/docker-images
-        - https://github.com/seiyu-nico/docker-php-dev
+  - Docker
+    - 自分自身の開発に利用(業務では未使用)
+    - 下記公開リポジトリ
+      - https://github.com/seiyu-nico/docker-images
+      - https://github.com/seiyu-nico/docker-php-dev
 - バージョン管理
   - Mercurial: 3年
   - Git: 1年(自分自身の開発に利用)
