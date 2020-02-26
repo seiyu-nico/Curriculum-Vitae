@@ -11,9 +11,9 @@
     - express(自主的/チュートリアル程度)
 - フロントエンド
   - 業務経験
-      - jQuery: 3年
-      - Angular: 2年
-      - VueJS: 半年
+    - jQuery: 3年
+    - Angular: 2年
+    - VueJS: 半年
 - インフラ
   - Linux
     - ubuntu18.04: 半年
