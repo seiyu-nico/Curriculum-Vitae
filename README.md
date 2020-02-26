@@ -1,34 +1,74 @@
-# スキルシート
+# 職務経歴書
+## 基本情報
+
+|key|value|
+|---|-----|
+|Name|石井 優聖(Yusei Ishii)|
+|Blog|[せぃゆー日記](https://seiyu-nico.jp)|
+|Twitter|[@seiyu_nico](https://twitter.com/foobar)|
+
+
+## 職務経歴
+### 株式会社ハンズ(2017/04 ~ 2017/09)
+#### 概要
+- 大学卒業後、webアプリケーションエンジニアとして入社し、研修として既存のシステムを一から作成する
+### プロジェクト
+- ホームページ制作会社検索機能
+  - 担当業務
+    - 要件定義・基本設計・詳細設計
+    - 実装・テスト・リリース・障害対応
+
+### 株式会社まえびー(2017/10 ~ 2017/12)
+#### 概要
+- 自社研修の後、社外研修として参加し2プロジェクト経験する  
+  - 開発環境
+    - Linux(CentOS6)
+    - 言語などは非公開
+### 株式会社ハンズ(2018/01 ~ 現在)
+#### 概要
+- 自社に戻り、e-shopsカートSの開発に参加
+- サイトにHTMLソースを貼ることによってネットショップを行うことができるサービス
+#### プロジェクト
+- 既存のカゴのSPA化(ゼロステップカート)
+  - すでに稼働中の4つのページ遷移のあるカゴ(3ステップカート)をSPAとして1ページ内に収める
+  - ベータ版として機能を制限したものを公開
+  - Angularを一から勉強し、約1年間プロジェクトに従事
+- 決済システム接続
+  - SBペイメント(トークン式/リンク式)を3ステップカート/ゼロステップカートに導入
+- 3ステップカートに存在する外部決済をゼロステップカートにも追加
+  - 第2弾として3ステップカートに存在する外部決済をSPA化したゼロステップカートに実装
+
+## スキル
 - Github: https://github.com/seiyu-nico
 
-- バックエンド
-  - PHP
-    - Zend Framework1: 3年
-    - Laravel(自主的)
-  - Pyhon
-    - Flask(単発業務)
-  - Node.js
-    - express(自主的/チュートリアル程度)
-- フロントエンド
-  - 業務経験
-    - jQuery: 3年
-    - Angular: 2年
-    - VueJS: 半年
-- インフラ
-  - Linux
-    - ubuntu18.04: 半年
-  - Solaris
-    - Solaris: 3年
-      - 開発環境として利用していたので、Solarisを利用しての環境構築などの経験は少しだけ
-  - DevOps
-    - 自主的
-      - Docker
-        - 自分自身の開発に利用(業務では未使用)
-        - 下記公開リポジトリ
-          - https://github.com/seiyu-nico/docker-images
-          - https://github.com/seiyu-nico/docker-php-dev
-  - バージョン管理
-    - Mercurial: 3年
-    - Git: 1年(自分自身の開発に利用)
-      - 最低限の利用は問題なし
+### バックエンド
+- PHP
+  - Zend Framework1: 3年
+  - Laravel(自主的)
+- Pyhon
+  - Flask(単発業務)
+- Node.js
+  - express(自主的/チュートリアル程度)
+### フロントエンド
+- 業務経験
+  - jQuery: 3年
+  - Angular: 2年
+  - VueJS: 半年
+### インフラ
+- Linux
+  - ubuntu18.04: 半年
+- Solaris
+  - Solaris: 3年
+    - 開発環境として利用していたので、Solarisを利用しての環境構築などの経験は少しだけ
+- DevOps
+  - 自主的
+    - Docker
+      - 自分自身の開発に利用(業務では未使用)
+      - 下記公開リポジトリ
+        - https://github.com/seiyu-nico/docker-images
+        - https://github.com/seiyu-nico/docker-php-dev
+- バージョン管理
+  - Mercurial: 3年
+  - Git: 1年(自分自身の開発に利用)
+    - 最低限の利用は問題なし
 
