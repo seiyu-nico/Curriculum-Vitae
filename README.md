@@ -28,46 +28,48 @@
 #### 概要
 - 自社に戻り、e-shopsカートSの開発に参加
 - サイトにHTMLソースを貼ることによってネットショップを行うことができるサービス
-#### プロジェクト
+#### 既存システムをSPA化(2018/01~2019/02頃)  
 - 既存のカゴのSPA化(ゼロステップカート)
   - すでに稼働中の4つのページ遷移のあるカゴ(3ステップカート)をSPAとして1ページ内に収める
   - ベータ版として機能を制限したものを公開
   - Angularを一から勉強し、約1年間プロジェクトに従事
 - 決済システム接続
-  - SBペイメント(トークン式/リンク式)を3ステップカート/ゼロステップカートに導入
+  - SBペイメント(トークン式/リンク式/キャリア決済)を3ステップカート/ゼロステップカートに導入
 - 3ステップカートに存在する外部決済をゼロステップカートにも追加
   - 第2弾として3ステップカートに存在する外部決済をSPA化したゼロステップカートに実装
+#### 運用保守/追加機能開発(2019/03~2020/08)
+- バグの修正
+- 要望の多い機能を追加開発
+#### レンタルサーバアップデート(2020/09~2020/12)
+- CentOS6,PleskOnyxをサポートが切れるのでCentOS7,PleskObsidianにアップデート
 
 # スキル
 - Github: https://github.com/seiyu-nico
 
 ## バックエンド
 - PHP
-  - Zend Framework1: 3年
+  - Zend Framework1: 3年半
   - Laravel(自主的/勉強中)
-    - 下記公開リポジトリ
-      - https://github.com/seiyu-nico/tools
 - Pyhon
   - Flask(単発業務)
-- Node.js
-  - express(自主的/チュートリアル程度)
 ## フロントエンド
 - 業務経験
-  - jQuery: 3年
-  - Angular: 2年
-  - VueJS: 半年
+  - javascript: 3年半
+    - jQuery: 3年
+    - Angular: 2年
+    - VueJS: 1年半~2年
 ## インフラ
 - Linux
-  - ubuntu18.04: 半年
+  - ubuntu20.04  
     - 自分自身の開発環境として利用
 - Solaris
   - Solaris: 3年
     - 開発環境として利用していたので、Solarisを利用しての環境構築などの経験は少しだけ
-  - Docker
-    - 自分自身の開発に利用(業務では未使用)
-    - 下記公開リポジトリ
-      - https://github.com/seiyu-nico/docker-images
-      - https://github.com/seiyu-nico/docker-php-dev
+- Docker(docker-compose)
+  - 自分自身の開発に利用(業務では未使用)
+  - 下記公開リポジトリ
+    - https://github.com/seiyu-nico/laravel_dev
+      - Laravelの開発環境を1コマンドで作成できるリポジトリ
 - バージョン管理
   - Mercurial: 3年
   - Git: 1年(自分自身の開発に利用)
